@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Puja Lakhe</h1>
-<h3 align="center">Aspiring Android Developer with expertise in Angular, Ionic, RESTful APIs, and problem-solving. Skilled in building scalable, user-friendly applications and eager to contribute to innovative teams while growing professionally.</h3>
+<h3 align="center">Aspiring App Developer with expertise in Angular, Ionic, RESTful APIs, and problem-solving. Skilled in building scalable, user-friendly applications and eager to contribute to innovative teams while growing professionally.</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pujalakhe&label=Profile%20views&color=0e75b6&style=flat" alt="pujalakhe" /> </p>
